@@ -14,7 +14,7 @@ They tried to use VMP to overthrow the KING! But then that is when I decided to 
 5. Enjoy
 
 # If not working
-a) Download [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.36-windows-x64-installer)
+a) Download [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.36-windows-x64-installer) </br>
 b) Download [VC Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
 # Credits
