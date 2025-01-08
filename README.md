@@ -13,6 +13,10 @@ They tried to use VMP to overthrow the KING! But then that is when I decided to 
 4. Run Argon.exe and Attach.
 5. Enjoy
 
+# If not working
+a) Download [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.36-windows-x64-installer)
+b) Download [VC Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+
 # Credits
 Entity (474987357351837696), ecstxsy (1124368549910159503) - Making this executor. </br>
 3000IQPlay - Cracking & files. </br>
